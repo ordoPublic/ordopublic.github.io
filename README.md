@@ -1,2 +1,3 @@
 # ordopublic.github.io
-Public Site for Ordo
+Public Site for Ordo Project
+
